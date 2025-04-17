@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/directfn-visualization/static/css/main.bfb54d10.css",
+    "main.js": "/directfn-visualization/static/js/main.cad1e120.js",
+    "static/js/488.4dac36d4.chunk.js": "/directfn-visualization/static/js/488.4dac36d4.chunk.js",
+    "index.html": "/directfn-visualization/index.html",
+    "main.bfb54d10.css.map": "/directfn-visualization/static/css/main.bfb54d10.css.map",
+    "main.cad1e120.js.map": "/directfn-visualization/static/js/main.cad1e120.js.map",
+    "488.4dac36d4.chunk.js.map": "/directfn-visualization/static/js/488.4dac36d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb54d10.css",
+    "static/js/main.cad1e120.js"
+  ]
+}
